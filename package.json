@@ -1,0 +1,12 @@
+{
+  "name": "cdnjs_bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/whoamali/cdnjs_bot.git",
+  "author": "|Ali Soleimani| <alisoleimani199@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "telegraf": "^4.8.5"
+  }
+}
